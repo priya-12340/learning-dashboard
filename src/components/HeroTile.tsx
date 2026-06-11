@@ -13,7 +13,7 @@ export default function HeroTile() {
       <div className="flex justify-between items-start">
         <div>
           <p className="text-gray-400 text-sm mb-1">Welcome back,</p>
-          <h1 className="text-white text-3xl font-bold">Priya! 👋</h1>
+          <h1 className="text-white text-3xl font-bold">Priya</h1>
           <p className="text-gray-400 mt-2">Continue your learning journey</p>
         </div>
         <div className="flex items-center gap-2 bg-orange-500/20 px-4 py-2 rounded-full border border-orange-500/30">
